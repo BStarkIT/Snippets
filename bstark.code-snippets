@@ -1,0 +1,24 @@
+{
+	"Title block for BStark Scripts": {
+		"prefix": "BS-Title",
+		"body": [
+		  "<#",
+		  ".SYNOPSIS",
+		  "This PowerShell script is to ",
+		  "",
+		  ".NOTES",
+		  "Script written by Brian Stark",
+		  "Date:",
+		  "Reviewed by:",
+		  "Date:",
+		  "",
+		  "Stored in Project Repo:",
+		  "",
+		  ".DESCRIPTION",
+		  "written by BStark",
+		  "#>"
+		],
+		"description": "Title block for BS Scripts"
+	}
+	  
+}
