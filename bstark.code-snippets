@@ -1,6 +1,6 @@
 {
 	"Title block for BStark Scripts": {
-		"prefix": "BS-Title",
+		"prefix": "SC-Title",
 		"body": [
 		  "<#",
 		  ".SYNOPSIS",
@@ -18,7 +18,7 @@
 		  "written by BStark",
 		  "#>"
 		],
-		"description": "Title block for BS Scripts"
+		"description": "Title block for SCTS Scripts"
 	}
 	  
 }
