@@ -1,24 +1,34 @@
 {
-	"Title block for BStark Scripts": {
-		"prefix": "SC-Title",
+	"Title block for SCTS Scripts": {
+		"prefix": "Add-Title",
+		"description": "Standard SCTS Title Block",
 		"body": [
-		  "<#",
-		  ".SYNOPSIS",
-		  "This PowerShell script is to ",
-		  "",
-		  ".NOTES",
-		  "Script written by Brian Stark",
-		  "Date:",
-		  "Reviewed by:",
-		  "Date:",
-		  "",
-		  "Stored in Project Repo:",
-		  "",
-		  ".DESCRIPTION",
-		  "written by BStark",
-		  "#>"
-		],
-		"description": "Title block for SCTS Scripts"
-	}
-	  
+			"<#",
+			".SYNOPSIS",
+			"Script ",
+			"",
+			".DESCRIPTION",
+			"A Script to",
+			"",
+			".NOTES",
+			"Script written by:",
+			"Date: ${CURRENT_DATE}/${CURRENT_MONTH}/${CURRENT_YEAR}",
+			"Modified by:",
+			"Date:",
+			"Version:",
+			"",
+			".COMPONENT",
+			"PowerShell Version 5",
+			"",
+			".PARAMETER A",
+			"",
+			".INPUTS",
+			"",
+			".OUTPUTS",
+			"",
+			".EXAMPLE",
+			"",
+			"#>"
+		]
+	},
 }
